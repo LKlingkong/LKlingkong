@@ -2,7 +2,7 @@
   <img src="assets/profile-banner.svg" width="900" alt="Linkon_ZJU · Desktop tools and everyday software">
 </p>
 
-<h1 align="center">你好，我是 Linkon_ZJU</h1>
+<h1 align="center">你好，我是 Linkon</h1>
 
 <p align="center">
   <strong>做一些自己每天也想打开的工具。</strong><br>
