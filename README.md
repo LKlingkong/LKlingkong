@@ -10,6 +10,12 @@
 </p>
 
 <p align="center">
+  🎓 浙江大学 · 能源工程学院 · 本科在读<br>
+  Zhejiang University · College of Energy Engineering · Undergraduate Student<br>
+  📮 <a href="mailto:2675647071@qq.com">2675647071@qq.com</a>
+</p>
+
+<p align="center">
   <a href="https://github.com/LKlingkong/NoteDesk">NoteDesk</a>
   · <a href="https://github.com/LKlingkong/ClearPlayer">澄音 CLEAR</a>
   · <a href="https://github.com/LKlingkong?tab=repositories">全部仓库 / Repositories</a>
