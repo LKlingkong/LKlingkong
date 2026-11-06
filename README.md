@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" width="900" alt="Linkon_ZJU · Desktop tools and everyday software">
+  <img src="assets/violet-sunset-banner-30x9.webp" width="900" alt="薇尔莉特·傍晚时分 — Violet beneath the sunset sky">
 </p>
 
 <h1 align="center">你好，我是 Linkon</h1>
